@@ -1,7 +1,7 @@
 <h1> Come and know a little about me 😊</h1>
 
 - 📚 I’m currently learning HTML, CSS and Javascript
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love technology and fixed bikes
 
  # 💻Tech Stack 
