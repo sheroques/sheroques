@@ -2,7 +2,7 @@
 
 - 📚 I’m currently learning HTML, CSS and Javascript
 - 📖Currently studying Internet Systems at Fatec Rubens Lara
-- ⚡ Fun fact: I love technology and fixed bikes
+
 
  # 💻Tech Stack 
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
