@@ -10,7 +10,7 @@
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
  # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Buletiss&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Buletiss&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Buletiss&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sheroques&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sheroques&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sheroques&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
