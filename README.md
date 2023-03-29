@@ -10,10 +10,6 @@
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
  <h2>〽GitHub Stats</h2> 
- <div>
- <a href="https://github.com/sheroques">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheroques&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheroques&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sheroques&theme=merko&hide_border=true"/>
-
-</div>
+![](https://github-readme-stats.vercel.app/api?username=sheroques&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sheroques&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sheroques&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact
