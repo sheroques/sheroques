@@ -1,6 +1,6 @@
 <h1> Come and know a little about me 😊</h1>
 
-- 📚 I’m currently learning HTML, CSS and Javascript
+- 📚 I’m currently learning HTML, CSS, Javascript and Python.
 - 📖Currently studying Internet Systems at Fatec Rubens Lara
 
 
