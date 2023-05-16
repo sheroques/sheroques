@@ -11,5 +11,9 @@
  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
  # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sheroques&theme=dark&hide_border=false)
-
+<div>
+ <a href="https://github.com/sheroques"/>
+ <img height="197em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheroques&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/><br>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sheroques&show_icons=true&theme=monokai&hide_border=true&include_all_commits=true&count_private=true"/><br>
+ <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=sheroques&theme=monokai&hide_border=true"/>
+</div>
